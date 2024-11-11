@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "eGsAqwdkq6+gX5OzLLZ4N9w8OC3UNBgqw0h6BoCpDX4=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\Eficazes - projeto\\backend\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\Eficazes - projeto\\backend\\Presentation\\wwwroot\\clientes\\75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\Desktop\\Eficazes - projeto\\backend\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "clientes/75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\clientes\\75b4eea5-5fdb-4868-bc7b-97453b0430f9.jpg"
+    }
+  ]
+}
